@@ -1,13 +1,9 @@
 +++
 title = "SIDECHAIN"
+
+[extra]
+section_path = "articles/_index.md"
+max_posts = 5
 +++
 
-# Sidechain Magazine
-
-hello i am john sidechain and welcome to sidechain magazine
-
-## the magazine
-
-it's a magazine
-
-wow
+# SIDECHAIN MAGAZINE

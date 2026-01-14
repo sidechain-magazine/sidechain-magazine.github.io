@@ -4,12 +4,21 @@ theme = "terminus"
 build_search_index = false
 compile_sass = true
 
+taxonomies = [
+	{ name = "installments", feed = true },
+	{ name = "authors" },
+]
+
 [markdown]
 highlight_code = true
 
 [extra]
-color_scheme = "tokyo-night"
+color_scheme = "nord"
+color_scheme_switcher = true
 
 main_menu = [
+	{ name = "about", url = "about" },
 	{ name = "articles", url = "articles", trailing_slash = true },
+	{ name = "installments", url = "installments", trailing_slash = true },
+	{ name = "authors", url = "authors", trailing_slash = true },
 ]
