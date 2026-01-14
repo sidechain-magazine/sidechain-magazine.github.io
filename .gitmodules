@@ -1,0 +1,9 @@
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/getzola/book.git
+[submodule "themes/tanuki"]
+	path = themes/tanuki
+	url = https://github.com/raskell-io/tanuki
+[submodule "themes/terminus"]
+	path = themes/terminus
+	url = https://github.com/ebkalderon/terminus.git
