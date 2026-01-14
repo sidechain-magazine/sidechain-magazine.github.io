@@ -6,4 +6,4 @@
 	url = https://github.com/raskell-io/tanuki
 [submodule "themes/terminus"]
 	path = themes/terminus
-	url = https://github.com/ebkalderon/terminus.git
+	url = https://github.com/sidechain-magazine/terminus.git
